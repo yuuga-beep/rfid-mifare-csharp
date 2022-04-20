@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFIDWindowsForm", "RFIDWindowsForm\RFIDWindowsForm.csproj", "{5848B34D-C662-48E8-AC99-3DCCCF5FE616}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5848B34D-C662-48E8-AC99-3DCCCF5FE616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5848B34D-C662-48E8-AC99-3DCCCF5FE616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5848B34D-C662-48E8-AC99-3DCCCF5FE616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5848B34D-C662-48E8-AC99-3DCCCF5FE616}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33FE70B1-665D-4790-9AC3-479E5151EAA3}
+	EndGlobalSection
+EndGlobal
